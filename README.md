@@ -23,7 +23,7 @@ bash setup_env_4090.sh
 > Datasets will be accessible after the publication of this paper.
 
 ## Quick start
-The main entry of this project is at ```cosense3d/tools/agent_runner.py```. 
+The main entry of this project is at ```src/tools/agent_runner.py```. 
 Before running this script, please ensure that you have modified the 
 `data_path` and `meta_path` in the `config/base/[DATASET_NAME].py` file to your own paths.
 
